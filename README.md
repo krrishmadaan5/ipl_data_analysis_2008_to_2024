@@ -1,4 +1,4 @@
-# IPL Analytics Project
+# IPL Data Analysis (2008-24)
 
 This project focuses on **IPL data analysis**, leveraging two datasets for comprehensive insights:
 - **ipl_all_matches_data_cleaned** (1K records)
